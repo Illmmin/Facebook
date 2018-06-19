@@ -1,0 +1,51 @@
+body{
+  height:100%;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  }
+
+#inscription{
+  width:250px;
+  height:40px;
+  left:750px;
+  top:625px;
+  background: linear-gradient(#79bc64, #578843);
+  font-size:18px;
+  color:white;
+  border-radius:5px 5px 5px 5px;
+  border-width: 1px;
+  border-style:solid;
+  border-color: gray;
+  cursor:pointer;
+  outline:none;
+}
+.rouge{
+  border-color: red;
+}
+#connexion{
+  background-color: #2b4799;
+  border-color: #29487d;
+  color:white;
+  border-radius: 2px;
+  padding: 2px 6px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 18px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: none;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+#text2{
+  left:750px;
+  top:70px;
+  font-family:verdana;
+  font-size:18px;
+  color:#000;
+  height:50px;
+  width:300px;
+}
